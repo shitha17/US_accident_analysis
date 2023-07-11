@@ -12,5 +12,7 @@ analysis (EDA) [2].
 get insights into the behavior of the data. It could be classification, regression, clustering, etc.
 6. Understand and explain the differences in each of the algorithms used. 
 7. Visualize the analytics using appropriate charts and graphs. You can use Seaborn or any other
-plotting tool. 
+plotting tool.
+
+DIC_phase2_submit (1).ipynb
 
