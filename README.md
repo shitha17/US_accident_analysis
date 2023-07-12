@@ -14,5 +14,4 @@ get insights into the behavior of the data. It could be classification, regressi
 7. Visualize the analytics using appropriate charts and graphs. You can use Seaborn or any other
 plotting tool.
 
-DIC_phase2_submit (1).ipynb
 
